@@ -34,6 +34,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../lara_0811_u2" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="909d4ee4-b19b-4184-9c8a-32c8752a9cbe" name="Default Changelist" comment="" />
